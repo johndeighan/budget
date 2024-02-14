@@ -4,6 +4,8 @@ date = 2024-02-14T00:00:00-05:00
 menu = "budget"
 +++
 
+[Chinese version](./zh)
+
 ```text
 Category         Aug 2023 Sep 2023 Oct 2023 Nov 2023 Dec 2023 Jan 2024 Average
 ---------------- -------- -------- -------- -------- -------- -------- -------

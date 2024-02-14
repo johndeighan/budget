@@ -72,7 +72,7 @@ Create a new remote named origin
 
 ```bash
 $ git add -A
-$ git commit -m "first commit"
+$ git commit -m "initial commit"
 $ git push --set-upstream origin main
 ```
 
@@ -94,6 +94,7 @@ Deploy to GitHub pages
 5. Switch `Source` to `GitHub Actions`
 6. Click on "Browse all workflows" and look for "Hugo"
 	and click on "Configure"
+7. Click on "Commit changes..."
 
 Add a new blog post
 -------------------
