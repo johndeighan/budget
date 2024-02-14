@@ -1,0 +1,14 @@
+{
+	"name": "@jdeighan/budget",
+	"version": "1.0.0",
+	"description": "Put budget on Internet",
+	"type": "module",
+	"scripts": {
+		"dev": "hugo serve -D",
+		"deploy": "git add -A && git commit -m 'add new post' && git push",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": ["hugo"],
+	"author": "John Deighan",
+	"license": "MIT"
+}
