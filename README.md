@@ -131,5 +131,5 @@ site, such as setting up a GitHub Actions workflow as above,
 you will need to run `git pull` before it will allow you do
 run `git push`.
 
-Your changes will now be live at `https://johndeighan.github.io/blog/`.
+Your changes will now be live at `https://johndeighan.github.io/budget/`.
 
